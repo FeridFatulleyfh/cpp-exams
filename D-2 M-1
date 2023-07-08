@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int eded,a,b;
+    cin>>eded;
+    b=eded%10;
+    a=eded/10;
+    cout<<a<<" "<<b<<endl;
+  return 0;
+}
