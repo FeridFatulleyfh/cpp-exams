@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int vanilli,sokoladli,meyveli;
+    cin>>vanilli;
+    cin>>sokoladli;
+    cin>>meyveli;
+    cout<<vanilli+sokoladli+meyveli<<endl;
+
+}
