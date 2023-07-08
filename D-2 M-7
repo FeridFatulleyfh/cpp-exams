@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int sagird,alma,a;
+    cin>>sagird;
+    cin>>alma;
+    a=alma%sagird;
+    cout<<a;
+}
